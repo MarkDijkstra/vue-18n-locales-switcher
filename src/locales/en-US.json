@@ -1,0 +1,18 @@
+{
+    "routes":{
+        "label":{
+            "home" : "Home",
+            "users" : "Users",
+            "about" : "About"
+        },
+        "path":{
+            "home": "en",
+            "users" : "users",
+            "about" : "about"
+        }
+    },
+    "home" : "Welcome page",
+    "users" : "Users page",
+    "about" : "About page",
+    "notfound" : "Notfound"
+}

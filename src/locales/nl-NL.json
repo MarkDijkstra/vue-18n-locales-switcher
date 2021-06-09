@@ -1,0 +1,18 @@
+{
+    "routes":{
+        "label":{
+            "home" : "Welkom",
+            "users" : "Gebruikers",
+            "about" : "Over ons"
+        },
+        "path":{
+            "home": "nl",
+            "users" : "gebruikers",
+            "about" : "over-ons"
+        }
+    },
+    "home" : "Welkom pagina",
+    "users" : "Gebruikers pagina",
+    "about" : "Over ons pagina",
+    "notfound" : "Niet gevonden (404)"
+}
